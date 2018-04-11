@@ -1,0 +1,2 @@
+# exmrig
+Encrypted XMRig
